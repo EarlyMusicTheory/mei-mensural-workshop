@@ -16,7 +16,7 @@
         <score>
           <scoreDef>
             <staffGrp>
-              <staffDef n="1" lines="5"></staffDef>
+              <staffDef n="1" lines="5" notationtype="mensural"></staffDef>
             </staffGrp>
           </scoreDef>
           <section>
