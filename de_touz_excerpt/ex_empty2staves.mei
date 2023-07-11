@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-Mensural.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-Mensural.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead xml:id="m-2">
+      <fileDesc>
+         <titleStmt>
+            <title>Excerpt of De touz (triplum and tenor)</title>
+         </titleStmt>
+         <pubStmt/>
+      </fileDesc>
+      <encodingDesc xml:id="e3i1x191">
+         <appInfo xml:id="a4xlkic">
+            <application xml:id="arv6yau2" startdate="2023-06-27T17:34:29" version="0.9.1" enddate="2023-07-11T12:19:36">
+               <name xml:id="nnjlfl5">mei-friend</name>
+               <p xml:id="ptc88kd1">First edit by mei-friend 0.8.7-p, 24 May 2023.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music xml:id="m-25">
+      <body xml:id="m-26">
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <staffGrp n="1">
+                     <staffDef lines="5" n="1" notationtype="mensural"/>
+                     <staffDef lines="5" n="2" notationtype="mensural"/>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <staff n="1">
+                     <layer n="1">
+                         <!-- music content goes in here -->
+                     </layer>
+                  </staff>
+                  <staff n="2">
+                     <layer n="1">
+                         <!-- music content goes in here -->
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
