@@ -22,7 +22,7 @@
 		<body xml:id="m-26">
 			<mdiv xml:id="mcl4j6m1">
 				<score xml:id="so107id1">
-					<scoreDef midi.bpm="600" xml:id="srkqdyo1">
+					<scoreDef xml:id="srkqdyo1">
 						<staffGrp n="1" symbol="bracket" xml:id="sg3cfqj1">
 							<staffDef clef.line="3" clef.shape="C" key.mode="major" keysig="0" lines="5" n="1" modusmaior="2" modusminor="3" tempus="3" prolatio="2" notationtype="mensural.black" xml:id="s86tk8k2">
 								<label xml:id="l86s122">triplum</label>
@@ -61,7 +61,7 @@
                               <syl wordpos="i" xml:id="sbnhs2l1">le</syl>
                            </verse>
 								</note>
-								<dot xml:id="dkf8f0i2"/>
+								<dot form="aug" xml:id="dkf8f0i2"/>
 								<note dur="semibrevis" oct="4" pname="f" xml:id="n1pu5pm2">
 									<verse n="1" xml:id="vaeqj7a">
                               <syl wordpos="i" xml:id="s9gd05k2">sens</syl>
@@ -98,7 +98,7 @@
                               <syl con="u" wordpos="t" xml:id="sg4lahg">mon,</syl>
                            </verse>
 								</note>
-								<note dur="minima" oct="4" oct.ges="3" pname="e" xml:id="nh1gohp2"/>
+								<note dur="minima" oct="4" pname="e" xml:id="nh1gohp2"/>
 								<dot form="div" xml:id="df5ce3f1"/>
 								<note dur="semibrevis" oct="4" pname="d" xml:id="npc1w7y2">
 									<verse n="1" xml:id="vigetr8">
