@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-Mensural.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-Mensural.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead xml:id="m-2">
+      <fileDesc>
+         <titleStmt>
+            <title>Excerpt of De touz (triplum and tenor)</title>
+         </titleStmt>
+         <pubStmt/>
+      </fileDesc>
+      <encodingDesc xml:id="e3i1x191">
+         <appInfo xml:id="a4xlkic">
+            <application xml:id="arv6yau2" startdate="2023-06-27T17:34:29" version="0.9.1" enddate="2023-07-11T12:19:36">
+               <name xml:id="nnjlfl5">mei-friend</name>
+               <p xml:id="ptc88kd1">First edit by mei-friend 0.8.7-p, 24 May 2023.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music xml:id="m-25">
+      <body xml:id="m-26">
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <staffGrp n="1" symbol="bracket">
+                     <staffDef clef.line="3" clef.shape="C" key.mode="major" keysig="0" lines="5" n="1" modusmaior="2" modusminor="3" tempus="3" prolatio="2" notationtype="mensural.black">
+                        <label>triplum</label>
+                     </staffDef>
+                     <staffDef clef.line="3" clef.shape="F" key.mode="major" keysig="0" lines="5" n="2" modusmaior="2" modusminor="3" tempus="3" prolatio="2" notationtype="mensural.black">
+                        <label>tenor</label>
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <staff n="1">
+                     <layer n="1">
+                        <note dur="brevis" oct="3" pname="b"/>
+                        <note dur="semibrevis" oct="3" pname="g"/>
+                        <note dur="brevis" oct="4" pname="d"/>
+                        <note dur="semibrevis" oct="3" pname="a"/>
+                        <note dur="brevis" oct="4" pname="c"/>
+                        <note dur="semibrevis" oct="3" pname="b"/>
+                        <note dur="brevis" oct="4" pname="c"/>
+                        <rest dur="brevis"/>
+                        <note dur="semibrevis" oct="4" pname="c"/>
+                        <dot/>
+                        <note dur="semibrevis" oct="4" pname="f"/>
+                        <note dur="minima" oct="4" pname="e"/>
+                        <note dur="semibrevis" oct="4" pname="d"/>
+                        <note dur="minima" oct="4" pname="e"/>
+                        <note dur="semibrevis" oct="4" pname="g"/>
+                        <note dur="minima" oct="4" pname="g"/>
+                        <note dur="brevis" oct="4" pname="d"/>
+                        <note dur="minima" oct="4" pname="e"/>
+                        <dot/>
+                        <note dur="semibrevis" oct="4" pname="d"/>
+                        <note dur="semibrevis" oct="4" pname="d"/>
+                        <note dur="semibrevis" oct="4" pname="d"/>
+                     </layer>
+                  </staff>
+                  <staff n="2">
+                     <layer n="1">
+                        <note dur="brevis" oct="3" pname="e"/>
+                        <rest dur="semibrevis"/>
+                        <note dur="semibrevis" oct="3" pname="d"/>
+                        <note dur="brevis" oct="3" pname="c"/>
+                        <note dur="longa" oct="3" pname="f"/>
+                        <note dur="longa" oct="3" pname="g"/>
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
