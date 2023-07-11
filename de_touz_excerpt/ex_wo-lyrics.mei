@@ -18,66 +18,66 @@
          </appInfo>
       </encodingDesc>
    </meiHead>
-	<music xml:id="m-25">
-		<body xml:id="m-26">
-			<mdiv xml:id="mcl4j6m1">
-				<score xml:id="so107id1">
-					<scoreDef midi.bpm="600" xml:id="srkqdyo1">
-						<staffGrp n="1" symbol="bracket" xml:id="sg3cfqj1">
-							<staffDef clef.line="3" clef.shape="C" key.mode="major" keysig="0" lines="5" n="1" modusmaior="2" modusminor="3" tempus="3" prolatio="2" notationtype="mensural.black" xml:id="s86tk8k2">
-								<label xml:id="l86s122">triplum</label>
-							</staffDef>
-							<staffDef clef.line="3" clef.shape="F" key.mode="major" keysig="0" lines="5" n="2" modusmaior="2" modusminor="3" tempus="3" prolatio="2" notationtype="mensural.black" xml:id="srbxplw2">
-								<label xml:id="lpuge671">tenor</label>
-							</staffDef>
-						</staffGrp>
-					</scoreDef>
-					<section xml:id="sj8vohq1">
-						<staff n="1" xml:id="shgnqzx1">
-							<layer n="1" xml:id="ll8wvng">
-								<note dur="brevis" oct="3" pname="b" dur.quality="imperfecta" xml:id="n028w0c1"/>
-								<note dur="semibrevis" oct="3" pname="g" xml:id="n26n5fh1"/>
-								<note dur="brevis" oct="4" pname="d" dur.quality="imperfecta" xml:id="nba5wq8"/>
-								<note dur="semibrevis" oct="3" pname="a" xml:id="n2e4zbk1"/>
-								<note dur="brevis" oct="4" pname="c" dur.quality="imperfecta" xml:id="ndhof1m1"/>
-								<note dur="semibrevis" oct="3" pname="b" xml:id="nhcnh9c1"/>
-								<barLine form="dashed" xml:id="bb7z3kh"/>
-								<note dur="brevis" oct="4" pname="c" xml:id="nh4gf4s1"/>
-								<rest dur="brevis" xml:id="rme1phk2"/>
-								<note dur="semibrevis" oct="4" pname="c" dur.quality="perfecta" xml:id="n6qu2bh1"/>
-								<dot xml:id="dkf8f0i2"/>
-								<note dur="semibrevis" oct="4" pname="f" xml:id="n1pu5pm2"/>
-								<note dur="minima" oct="4" pname="e" xml:id="nwyvwib"/>
-								<barLine form="dashed" xml:id="br47rnt2"/>
-								<note dur="semibrevis" oct="4" pname="d" xml:id="nl8by7"/>
-								<note dur="minima" oct="4" pname="e" xml:id="nqkbs1y2"/>
-								<note dur="semibrevis" oct="4" pname="g" xml:id="n3ib9b8"/>
-								<note dur="minima" oct="4" pname="g" xml:id="np0qbwh"/>
-								<note dur="brevis" oct="4" pname="d" num="6" numbase="5" xml:id="n6w54xi1"/>
-								<note dur="minima" oct="4" oct.ges="3" pname="e" xml:id="nh1gohp2"/>
-								<dot form="div" xml:id="df5ce3f1"/>
-								<note dur="semibrevis" oct="4" pname="d" xml:id="npc1w7y2"/>
-								<note dur="semibrevis" oct="4" pname="d" xml:id="nsou372"/>
-								<note dur="semibrevis" oct="4" pname="d" xml:id="nceyrsy2"/>
-								<barLine form="dashed" xml:id="berlb7y2"/>
-							</layer>
-						</staff>
-						<staff n="2" xml:id="sq4ou3w1">
-							<layer n="1" xml:id="lw5s7jo1">
-								<note dur="brevis" oct="3" pname="e" xml:id="n9vqkdj1"/>
-								<rest dur="semibrevis" xml:id="r9kxsoj1"/>
-								<note dur="semibrevis" oct="3" pname="d" dur.quality="altera" xml:id="nqfsav91"/>
-								<note dur="brevis" oct="3" pname="c" xml:id="n51n1lu2"/>
-								<barLine form="dashed" xml:id="bm1zkte"/>
-								<note dur="longa" oct="3" pname="f" xml:id="nznaa7i1"/>
-								<barLine form="dashed" xml:id="blgywm4"/>
-								<note dur="longa" oct="3" pname="g" xml:id="n5mysr11"/>
-								<barLine form="dashed" xml:id="b5h296q2"/>
-							</layer>
-						</staff>
-					</section>
-				</score>
-			</mdiv>
-		</body>
-	</music>
+   <music xml:id="m-25">
+      <body xml:id="m-26">
+         <mdiv xml:id="mcl4j6m1">
+            <score xml:id="so107id1">
+               <scoreDef xml:id="srkqdyo1">
+                  <staffGrp n="1" symbol="bracket" xml:id="sg3cfqj1">
+                     <staffDef clef.line="3" clef.shape="C" key.mode="major" keysig="0" lines="5" n="1" modusmaior="2" modusminor="3" tempus="3" prolatio="2" notationtype="mensural.black" xml:id="s86tk8k2">
+                        <label xml:id="l86s122">triplum</label>
+                     </staffDef>
+                     <staffDef clef.line="3" clef.shape="F" key.mode="major" keysig="0" lines="5" n="2" modusmaior="2" modusminor="3" tempus="3" prolatio="2" notationtype="mensural.black" xml:id="srbxplw2">
+                        <label xml:id="lpuge671">tenor</label>
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="sj8vohq1">
+                  <staff n="1" xml:id="shgnqzx1">
+                     <layer n="1" xml:id="ll8wvng">
+                        <note dur="brevis" oct="3" pname="b" dur.quality="imperfecta" xml:id="n028w0c1"/>
+                        <note dur="semibrevis" oct="3" pname="g" xml:id="n26n5fh1"/>
+                        <note dur="brevis" oct="4" pname="d" dur.quality="imperfecta" xml:id="nba5wq8"/>
+                        <note dur="semibrevis" oct="3" pname="a" xml:id="n2e4zbk1"/>
+                        <note dur="brevis" oct="4" pname="c" dur.quality="imperfecta" xml:id="ndhof1m1"/>
+                        <note dur="semibrevis" oct="3" pname="b" xml:id="nhcnh9c1"/>
+                        <barLine form="dashed" xml:id="bb7z3kh"/>
+                        <note dur="brevis" oct="4" pname="c" xml:id="nh4gf4s1"/>
+                        <rest dur="brevis" xml:id="rme1phk2"/>
+                        <note dur="semibrevis" oct="4" pname="c" dur.quality="perfecta" xml:id="n6qu2bh1"/>
+                        <dot form="aug" xml:id="dkf8f0i2"/>
+                        <note dur="semibrevis" oct="4" pname="f" xml:id="n1pu5pm2"/>
+                        <note dur="minima" oct="4" pname="e" xml:id="nwyvwib"/>
+                        <barLine form="dashed" xml:id="br47rnt2"/>
+                        <note dur="semibrevis" oct="4" pname="d" xml:id="nl8by7"/>
+                        <note dur="minima" oct="4" pname="e" xml:id="nqkbs1y2"/>
+                        <note dur="semibrevis" oct="4" pname="g" xml:id="n3ib9b8"/>
+                        <note dur="minima" oct="4" pname="g" xml:id="np0qbwh"/>
+                        <note dur="brevis" oct="4" pname="d" num="6" numbase="5" xml:id="n6w54xi1"/>
+                        <note dur="minima" oct="4" pname="e" xml:id="nh1gohp2"/>
+                        <dot form="div" xml:id="df5ce3f1"/>
+                        <note dur="semibrevis" oct="4" pname="d" xml:id="npc1w7y2"/>
+                        <note dur="semibrevis" oct="4" pname="d" xml:id="nsou372"/>
+                        <note dur="semibrevis" oct="4" pname="d" xml:id="nceyrsy2"/>
+                        <barLine form="dashed" xml:id="berlb7y2"/>
+                     </layer>
+                  </staff>
+                  <staff n="2" xml:id="sq4ou3w1">
+                     <layer n="1" xml:id="lw5s7jo1">
+                        <note dur="brevis" oct="3" pname="e" xml:id="n9vqkdj1"/>
+                        <rest dur="semibrevis" xml:id="r9kxsoj1"/>
+                        <note dur="semibrevis" oct="3" pname="d" dur.quality="altera" xml:id="nqfsav91"/>
+                        <note dur="brevis" oct="3" pname="c" xml:id="n51n1lu2"/>
+                        <barLine form="dashed" xml:id="bm1zkte"/>
+                        <note dur="longa" oct="3" pname="f" xml:id="nznaa7i1"/>
+                        <barLine form="dashed" xml:id="blgywm4"/>
+                        <note dur="longa" oct="3" pname="g" xml:id="n5mysr11"/>
+                        <barLine form="dashed" xml:id="b5h296q2"/>
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
 </mei>
