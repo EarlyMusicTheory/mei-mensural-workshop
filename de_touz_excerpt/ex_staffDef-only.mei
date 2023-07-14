@@ -23,11 +23,15 @@
          <mdiv>
             <score>
                <scoreDef>
-                  <staffGrp n="1" symbol="bracket">
-                     <staffDef clef.line="3" clef.shape="C" key.mode="major" keysig="0" lines="5" n="1" modusmaior="2" modusminor="3" tempus="3" prolatio="2" notationtype="mensural.black">
+                  <staffGrp n="1">
+                     <staffDef n="1" lines="5" notationtype="mensural.black"
+                               clef.line="3" clef.shape="C" keysig="0" 
+                               modusmaior="2" modusminor="3" tempus="3" prolatio="2" >
                         <label>triplum</label>
                      </staffDef>
-                     <staffDef clef.line="3" clef.shape="F" key.mode="major" keysig="0" lines="5" n="2" modusmaior="2" modusminor="3" tempus="3" prolatio="2" notationtype="mensural.black">
+                     <staffDef  n="2" lines="5" notationtype="mensural.black" 
+                               clef.line="3" clef.shape="F" keysig="0" 
+                               modusmaior="2" modusminor="3" tempus="3" prolatio="2">
                         <label>tenor</label>
                      </staffDef>
                   </staffGrp>
